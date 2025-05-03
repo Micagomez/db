@@ -35,3 +35,6 @@ Desde tu PC (con DBeaver, Workbench o consola):
 - **Base de datos:** `cooperative_db`
 
 ---
+
+### 4. Borrar seguimiento 
+rm -rf .git
